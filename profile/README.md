@@ -5,6 +5,7 @@
   <h2>
     <a href="https://discord.gg/sBRGxuC5Jd">Discord</a>
     <br>
+    <br>
     <a href="https://docs.roda-store.com/">Documentation</a>
   </h2>
 </div>
